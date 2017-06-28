@@ -1,0 +1,40 @@
+h1{
+    font-weight:bold;
+    color:rgb(219, 73, 15);
+    text-align: center
+}
+h2{
+    color:rgb(219, 73, 15);
+}
+body{background-color:rgb(47, 208, 237);
+    font-weight:bold;
+    font-size:115%;
+}
+p{
+    color:black;
+    font-style:italic;
+}
+ul{color:black;
+    font-style:italic;
+}
+.hours {
+    font-weight: bold;
+    text-decoration: underline;
+    position: absolute;
+    left: 206px;
+    top: 276px;
+}
+a{
+    text-decoration: none; 
+}
+.reviews{
+    font-weight: bold;
+    color: blueviolet;
+    text-decoration: underline
+}
+
+.title {
+    font-weight: bold;
+    font-style: italic;
+    text-align: left
+}
