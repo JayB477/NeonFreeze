@@ -12,7 +12,7 @@ body{background-color:#416EE9;
 }
 p{
     color:black;
-    font-style:papyrus Medium;
+    font-style: papyrus;
 }
 ul{color:black;
     font-style:italic;
@@ -22,7 +22,7 @@ ul{color:black;
     text-decoration: underline;
     position: absolute;
     left: 203px;
-    top: 253px;
+    top: 198px;
 }
 a{
     text-decoration: none; 
