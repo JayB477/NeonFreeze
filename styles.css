@@ -7,12 +7,14 @@ h2{
     color:rgb(219, 73, 15);
 }
 body{background-color:#416EE9;
+    background-image: url("https://goo.gl/B7puFY");
+
     font-weight:bold;
     font-size:115%;
 }
-p{
+p1{
     color:black;
-    font-style:Franklin Demi Gothic Medium;
+    font-style:unset;
 }
 ul{color:black;
     font-style:italic;
@@ -22,7 +24,7 @@ ul{color:black;
     text-decoration: underline;
     position: absolute;
     left: 203px;
-    top: 253px;
+    top: 198px;
 }
 a{
     text-decoration: none; 
@@ -37,4 +39,14 @@ a{
     font-weight: bold;
     font-style: italic;
     text-align: left
+}
+
+.fb{
+    width: 50px;
+    height: 50px;
+}
+
+.twit{
+    width: 50px;
+    height: 50px
 }
