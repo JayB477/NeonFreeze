@@ -12,9 +12,9 @@ body{background-color:#416EE9;
     font-weight:bold;
     font-size:115%;
 }
-p{
+p1{
     color:black;
-    font-style: papyrus;
+    font-style:unset;
 }
 ul{color:black;
     font-style:italic;
