@@ -12,6 +12,10 @@ body{
     font-weight:bold;
     font-size:130%;
 }
+.banner {
+    height:75px;
+    width:20;
+}
 p{
     color:black;
     font-style:oblique;
@@ -57,4 +61,8 @@ a{
 #carousel-example-generic {
     width: 50%;
     height: 250px;
+}
+
+#carousel-example-generic img {
+    width: 100%;
 }
