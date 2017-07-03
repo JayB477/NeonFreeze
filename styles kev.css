@@ -1,0 +1,40 @@
+h1{
+    font-weight:bold;
+    color:rgb(219, 73, 15);
+    text-align: center
+}
+h2{
+    color:rgb(219, 73, 15);
+}
+body{background-color:#416EE9;
+    font-weight:bold;
+    font-size:115%;
+}
+p{
+    color:black;
+    font-style:Franklin Demi Gothic Medium;
+}
+ul{color:black;
+    font-style:italic;
+}
+.hours {
+    font-weight: bold;
+    text-decoration: underline;
+    position: absolute;
+    left: 203px;
+    top: 253px;
+}
+a{
+    text-decoration: none; 
+}
+.reviews{
+    font-weight: bold;
+    color: blueviolet;
+    text-decoration: underline
+}
+
+.title {
+    font-weight: bold;
+    font-style: italic;
+    text-align: left
+}
