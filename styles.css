@@ -1,8 +1,3 @@
-h1{
-    font-weight:bold;
-    color:rgb(219, 73, 15);
-    text-align: center
-}
 h2{
     color:#e60000;
     font-style: Comic
@@ -14,7 +9,14 @@ body{
 }
 .banner {
     height:75px;
-    width:20;
+    width:100%x;
+    background-color: yellow;
+}
+.banner h1{
+    font-weight:bold;
+    color:rgb(219, 73, 15);
+    position: absolute;
+    left: 26%;
 }
 p{
     color:black;
@@ -63,6 +65,11 @@ a{
     height: 250px;
 }
 
+#carousel-example-generic .carousel-inner {
+    height: 250px;
+}
+
 #carousel-example-generic img {
     width: 100%;
+    min-height: 250px;
 }
