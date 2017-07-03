@@ -58,3 +58,7 @@ a{
     width: 50%;
     height: 250px;
 }
+
+#carousel-example-generic img {
+    width: 100%;
+}
