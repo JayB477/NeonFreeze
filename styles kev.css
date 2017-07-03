@@ -4,35 +4,25 @@ h1{
     text-align: center
 }
 h2{
-    color:#e60000;
-    font-style: Comic
+    color:rgb(219, 73, 15);
 }
-body{
-    background-image: url("https://goo.gl/B7puFY");
+body{background-color:#416EE9;
     font-weight:bold;
-    font-size:130%;
-}
-.banner {
-    height:75px;
-    width:20;
+    font-size:115%;
 }
 p{
     color:black;
-    font-style:oblique;
+    font-style:Franklin Demi Gothic Medium;
 }
 ul{color:black;
     font-style:italic;
 }
-.ice-cream {
-    opacity: 10.0;
-}
-
 .hours {
     font-weight: bold;
     text-decoration: underline;
     position: absolute;
-    left: 155px;
-    top: 217px;
+    left: 203px;
+    top: 253px;
 }
 a{
     text-decoration: none; 
@@ -47,22 +37,4 @@ a{
     font-weight: bold;
     font-style: italic;
     text-align: left
-}
-.fb{
-    width: 50px;
-    height: 50px;
-}
-
-.twit{
-    width: 50px;
-    height: 50px;
-}
-
-#carousel-example-generic {
-    width: 50%;
-    height: 250px;
-}
-
-#carousel-example-generic img {
-    width: 100%;
 }
