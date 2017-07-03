@@ -6,25 +6,28 @@ h1{
 h2{
     color:rgb(219, 73, 15);
 }
-body{background-color:#416EE9;
+body{
     background-image: url("https://goo.gl/B7puFY");
-
     font-weight:bold;
     font-size:115%;
 }
-p1{
+p{
     color:black;
-    font-style:unset;
+    font-style:oblique;
 }
 ul{color:black;
     font-style:italic;
 }
+.ice-cream {
+    opacity: 10.0;
+}
+
 .hours {
     font-weight: bold;
     text-decoration: underline;
     position: absolute;
-    left: 203px;
-    top: 198px;
+    left: 155px;
+    top: 217px;
 }
 a{
     text-decoration: none; 
@@ -40,7 +43,6 @@ a{
     font-style: italic;
     text-align: left
 }
-
 .fb{
     width: 50px;
     height: 50px;
@@ -48,5 +50,5 @@ a{
 
 .twit{
     width: 50px;
-    height: 50px
+    height: 50px;
 }
