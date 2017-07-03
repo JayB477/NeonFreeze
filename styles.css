@@ -63,6 +63,11 @@ a{
     height: 250px;
 }
 
+#carousel-example-generic .carousel-inner {
+    height: 250px;
+}
+
 #carousel-example-generic img {
     width: 100%;
+    min-height: 250px;
 }
